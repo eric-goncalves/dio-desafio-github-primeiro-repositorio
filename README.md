@@ -1,2 +1,2 @@
-# Desafio GIT/GITHub do BootCamp DIO (Santander)
-Desafio de projeto sobre GIT/GITHUB
+# Desafio de projeto GIT/GITHub do BootCamp DIO (Santander)
+Repositório criado para desafio de projeto.
